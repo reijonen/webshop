@@ -16,7 +16,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 export const meta: MetaFunction = () => {
   return {
-    title: 'HIGHERPLANE SHOP',
+    title: 'Storefront',
   }
 }
 

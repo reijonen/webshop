@@ -13,11 +13,11 @@ const products: Product[] = [
       {
         id: 'variant-1234512sdddsdsd34123',
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
         ],
         custom_fields: [
           {
@@ -39,11 +39,11 @@ const products: Product[] = [
       {
         id: 'variant-1234512341ccccc23',
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
         ],
         custom_fields: [
           {
@@ -65,11 +65,11 @@ const products: Product[] = [
       {
         id: 'variant-123451234123<<d',
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
         ],
         custom_fields: [
           {
@@ -91,11 +91,11 @@ const products: Product[] = [
       {
         id: 'variant-123451234123<<d',
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
         ],
         custom_fields: [
           {
@@ -117,11 +117,11 @@ const products: Product[] = [
       {
         id: 'variant-1234512zzzzzzz34123',
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
         ],
         custom_fields: [
           {
@@ -143,9 +143,9 @@ const products: Product[] = [
       {
         id: 'variant-123451rwrwrwrw234123',
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
         ],
         custom_fields: [
           {
@@ -167,11 +167,11 @@ const products: Product[] = [
       {
         id: 'variant-12345123gasga4123',
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2652-600x800.jpg',
         ],
         custom_fields: [
           {
@@ -213,11 +213,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -230,11 +230,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -247,11 +247,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2401-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -284,11 +284,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -301,11 +301,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -318,11 +318,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2641-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -355,11 +355,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -372,11 +372,11 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,
@@ -389,10 +389,10 @@ const products: Product[] = [
       {
         id: `variant-${Date.now() * Math.random()}`,
         media: [
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
-          'https://higherplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
+          'https://webshopplane-images.s3.eu-west-1.amazonaws.com/images/FD_Webshop_DSC_2512-600x800.jpg',
         ],
         custom_fields: [],
         list_price: null,

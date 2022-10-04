@@ -15,7 +15,7 @@ import Error from './Error'
 import toastifyStyles from 'react-toastify/dist/ReactToastify.css';
 
 export const meta: MetaFunction = () => {
-  return { title: "HIGHERPLANE SHOP" };
+  return { title: "Storefront" };
 };
 
 export function links() {

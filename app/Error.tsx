@@ -15,7 +15,7 @@ export default function Error() {
 			</div>
 			<SpacedHeader text="ERROR :/"/>
 			<section className="mb-5 ">
-				<p className="text-body font-body" >Try reloading the page, if this error page still visible after few minutes, please contact us at contact@higherplane.clothing</p>
+				<p className="text-body font-body" >Error</p>
 			</section>
 		</div>
 	);

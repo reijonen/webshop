@@ -40,7 +40,7 @@ export default function Footer() {
 					<Link to='legal#tos'>TERMS OF SERVICE</Link>
 				</li>
 			</ul>
-			<p className='font-mono text-gray-800 text-pre text-center mb-2'> COPYRIGHT (C) HIGHERPLANE CLOTHING OY 2022</p>
+			<p className='font-mono text-gray-800 text-pre text-center mb-2'> COPYRIGHT (C) PLACEHOLDER OY 2022</p>
 		</div>
 	)
 }
